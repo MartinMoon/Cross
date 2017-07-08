@@ -18,7 +18,7 @@ CIKM 2015 (Oral)
 
 <img src="images/CDCS.png" alt="CDCS" style="width: 300px;"/>
 
-<font color="red">Tong Man, Huawei Shen, Xiaolong Jin and Xueqi Cheng</font>
+_Authors_**: Tong Man, Huawei Shen, Xiaolong Jin and Xueqi Cheng
 IJCAI 2017 (Oral)
 
 
