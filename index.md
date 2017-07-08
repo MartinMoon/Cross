@@ -8,6 +8,7 @@ Data sparisty raised from two aspects: first one is user-side sparsity, for most
 ( Notice this unbalance phenomenon is related to several basic rules of complex network theory: power-law distribution, Matthew effect, and others. ) 
 
 > For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken even that which he hath. 
+> 
 > Matthew 25:29, King James Version.
 
 Combine different data sources from different domain is one reasonable way to solve the data sparsity problem.
