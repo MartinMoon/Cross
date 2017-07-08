@@ -5,7 +5,6 @@ Recommender system make recommendation for customers based on their history inte
 
 ### Context-Adaptive Matrix Factorization
 
-```markdown
 We present a new recommendation algorithm to combine the users' and items' information from different data sources. 
 Based on the classical matrix factorization model, we propose a context-adaptive method for multi-context recommendation via simultaneously modeling context-specific factors and entity-intrinsic factors in a unified model.
 We use a Gaussian-mixture model to combine the two information sources, and use a EM (Expectation-Maximization) method to infer the paramters of the model.
@@ -14,7 +13,6 @@ Experimental results demonstrate that our method consistently improves the predi
 
 Tong Man, Huawei Shen, Junming Huang and Xueqi Cheng.
 CIKM 2015 (Oral)
-```
 
 ### Context-Adaptive Matrix Factorization
 
