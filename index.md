@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Cross Domain Recomendation
 
-You can use the [editor on GitHub](https://github.com/MartinMoon/crossdomainrecommendation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Recommender system make recommendation for customers based on their history interest. One crucial problem of recommender system is data sparsity. Combine different data sources from different domain is one reasonable way to solve the data sparsity problem.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -32,6 +31,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MartinMoon/crossdomainrecommendation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### References
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. (https://help.github.com/categories/github-pages-basics/) 
+2. (https://github.com/contact) and we’ll help you sort it out.
+3. 
