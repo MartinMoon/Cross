@@ -12,6 +12,6 @@ Syntax highlighted code block
 
 ### References
 
-1. (https://help.github.com/categories/github-pages-basics/) 
+1. 1(https://help.github.com/categories/github-pages-basics/) 
 2. (https://github.com/contact) and we’ll help you sort it out.
 3. 
