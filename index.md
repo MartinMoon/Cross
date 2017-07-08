@@ -18,6 +18,13 @@ Published in **CIKM 2015 (Oral Presentation)**
 
 ### Cross-Domain Recommendation: An Embedding and Mapping Approach
 
+In this work we presented an embedding-and-mapping framework for tackling cross-domain recommendation, called EMCDR. 
+We first employed latent factor models to project users/items in both source and target domains into two different latent spaces. 
+We then learned a mapping function between latent spaces to capture the coordinate relationship across the two domains. 
+For a user/item in the target domain, we make recommendation by mapping its factor in the source domain into the target domain. 
+Experiments conducted on two cross domain recommendation scenarios convincingly demonstrate that the proposed models can significantly improve the quality of cross-domain recommendation.
+The framework of our model is shown as follow. 
+
 <img src="images/CDCS.png" alt="CDCS" style="width: 300px;"/>
 
 **_Authors_**: Tong Man, Huawei Shen, Xiaolong Jin and Xueqi Cheng
@@ -25,5 +32,4 @@ Published in **CIKM 2015 (Oral Presentation)**
 Published in **IJCAI 2017 (Oral Presentation)**
 [Paper](/papers/IJCAI_2017.pdf)
 
-### References
 
