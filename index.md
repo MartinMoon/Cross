@@ -14,13 +14,13 @@ Experimental results demonstrate that our method consistently improves the predi
 Tong Man, Huawei Shen, Junming Huang and Xueqi Cheng.
 CIKM 2015 (Oral)
 
-### Context-Adaptive Matrix Factorization
+### Cross-Domain Recommendation: An Embedding and Mapping Approach
 
-```markdown
+![Framework]('./images/CDCS.eps')
 
-This work is co-authored with Huawei Shen, Junming Huang and Xueqi Cheng.
-This work is publish in CIKM'2015 as a oral paper, Context-Adaptive Matrix Factorization for Multi-Context Recommendation.
-```
+Tong Man, Huawei Shen, Xiaolong Jin and Xueqi Cheng.
+IJCAI 2017 (Oral)
+
 
 ### References
 
