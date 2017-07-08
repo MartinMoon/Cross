@@ -16,7 +16,7 @@ CIKM 2015 (Oral)
 
 ### Cross-Domain Recommendation: An Embedding and Mapping Approach
 
-![Framework]('./images/CDCS.png')
+![Framework]('https://github.com/MartinMoon/Cross/images/CDCS.png')
 
 Tong Man, Huawei Shen, Xiaolong Jin and Xueqi Cheng.
 IJCAI 2017 (Oral)
