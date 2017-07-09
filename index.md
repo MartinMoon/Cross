@@ -19,9 +19,9 @@ Experimental results demonstrate that our method consistently improves the predi
 
 **_Authors_**: Tong Man, Huawei Shen, Junming Huang and Xueqi Cheng.
 
-Published in the 24th ACM International Conference on Information and Knowledge Management **CIKM 2015 (Oral Presentation)**
+Published in the 24th ACM International Conference on Information and Knowledge Management.
 
-[Paper](/papers/CIKM_2015.pdf)
+**CIKM 2015 (Oral Presentation)** [Paper](/papers/CIKM_2015.pdf)
 
 
 ### Cross-Domain Recommendation: An Embedding and Mapping Approach
@@ -37,8 +37,8 @@ The framework of our model is shown as follow.
 
 **_Authors_**: Tong Man, Huawei Shen, Xiaolong Jin and Xueqi Cheng
 
-Published in the 26th International Joint Conference on Artificial Intelligence **IJCAI 2017 (Oral Presentation)**.
+Published in the 26th International Joint Conference on Artificial Intelligence.
 
-[Paper](/papers/IJCAI_2017.pdf)
+**IJCAI 2017 (Oral Presentation)**. [Paper](/papers/IJCAI_2017.pdf)
 
 
