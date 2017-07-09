@@ -1,15 +1,11 @@
 ## Cross Domain Recomendation
 
-Recommender system make recommendation for customers based on their history interest. 
-Amazon recommend books, Netflix recommend movies, Facebook recommend friends, recommender system is everywhere nowadays. 
+Recommender system makes recommendation for customers based on their history interest. 
+Amazon recommend books, Netflix recommend movies and Facebook recommend friends, recommender system is everywhere nowadays. 
 
 One crucial problem of recommender system is data sparsity. 
-Data sparisty raised from two aspects: first one is user-side sparsity, for most users, they have very few historical information; the second one is item-side sparisity, which means most of the attentions are focus on very few products, for the others, we do not have much feedback information.
+Data sparsity is raised from two aspects: first one is user-side sparsity, for most users, they have very few historical information; the second one is item-side sparisity, which means most of the attentions are focus on very few products, for the others, we do not have much feedback information.
 ( Notice this unbalance phenomenon is related to several basic rules of complex network theory: power-law distribution, Matthew effect, and others. ) 
-
-> For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken even that which he hath. 
-> 
-> Matthew 25:29, King James Version.
 
 Combine different data sources from different domain is one reasonable way to solve the data sparsity problem.
 
